@@ -30,7 +30,7 @@ Crocodile_Analyst
 - **Sumber**: Kaggle.com , public data -> dataset name : crocodile_dataset.csv
 
 ## Arsitektur Ringkas
-![diagram](docs/matrix.png)
+![diagram](/matrix.png)
 
 ## Roadmap (Mingguan)
 - **M1**: Analisa Masalah
